@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "V people on a tank"
   avatar : "/assets/images/duck.jpg"
-  bio    : "A little sand"
+  bio    : "Im duck"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
