@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "V people on a tank"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/duck.jpg"
   bio    : "A little sand"
   links:
     # - label: "Website"
