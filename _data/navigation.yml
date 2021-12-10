@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Archives"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "My confessions"
+    url: /confessions/
   - title: "About"
     url: /about/
